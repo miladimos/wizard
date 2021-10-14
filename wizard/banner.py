@@ -1,0 +1,5 @@
+import random
+
+banner1 = ''''
+
+'''
