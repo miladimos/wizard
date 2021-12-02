@@ -13,5 +13,4 @@ setup(
         'requests',        
     ],
     python_required=[">=3.7"]
-    
 )
